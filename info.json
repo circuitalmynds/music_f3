@@ -9,6 +9,20 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Stomping Ground-xOEQtFBsmG8.mp4?raw=true"
         },
         {
+            "id": "k5OjIjfiLI8",
+            "name": "Conjunto Jarocho Medell\u00edn de Lino Ch\u00e1vez \u2013 Veracruz \u2013 1961 \u2013 LP-k5OjIjfiLI8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Conjunto Jarocho Medell\u00edn de Lino Ch\u00e1vez \u2013 Veracruz \u2013 1961 \u2013 LP-k5OjIjfiLI8.mp4",
+            "size": 37.916824,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Conjunto Jarocho Medell\u00edn de Lino Ch\u00e1vez \u2013 Veracruz \u2013 1961 \u2013 LP-k5OjIjfiLI8.mp4?raw=true"
+        },
+        {
+            "id": "VKdqDrlB3CQ",
+            "name": "Sergei Rachmaninov - Symphony No. 2, Op. 27 (1907) Live-VKdqDrlB3CQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Sergei Rachmaninov - Symphony No. 2, Op. 27 (1907) Live-VKdqDrlB3CQ.mp4",
+            "size": 85.102109,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Sergei Rachmaninov - Symphony No. 2, Op. 27 (1907) Live-VKdqDrlB3CQ.mp4?raw=true"
+        },
+        {
             "id": "4RrSZVrsmzc",
             "name": "Liszt - Liebestr\u00e4ume, S. 541 - No. 3 in A-Flat Major 'Oh Lieb, so lang du lieben kannst'-4RrSZVrsmzc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Liszt - Liebestr\u00e4ume, S. 541 - No. 3 in A-Flat Major 'Oh Lieb, so lang du lieben kannst'-4RrSZVrsmzc.mp4",
@@ -35,6 +49,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Do the Boogaloo-vHPhUG1qI-Y.mp4",
             "size": 4.815878,
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Do the Boogaloo-vHPhUG1qI-Y.mp4?raw=true"
+        },
+        {
+            "id": "1T--hwQSlmM",
+            "name": "Liszt - A Dante Symphony, S.109 - 2. Purgatorio-1T--hwQSlmM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Liszt - A Dante Symphony, S.109 - 2. Purgatorio-1T--hwQSlmM.mp4",
+            "size": 14.890241,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Liszt - A Dante Symphony, S.109 - 2. Purgatorio-1T--hwQSlmM.mp4?raw=true"
         },
         {
             "id": "GNZcIM_y9Jo",
@@ -107,5 +128,5 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Ravel - Alborada del gracioso \u2219 hr-Sinfonieorchester \u2219 Pablo Heras-Casado-kGgEroiMBCY.mp4?raw=true"
         }
     ],
-    "total_size": 112.20656999999999
+    "total_size": 250.115744
 }
