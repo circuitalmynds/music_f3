@@ -44,6 +44,13 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Keyboard Sonata No. 7 in D Major, Hob. XVII, D 1 - II. Menuet-DsbMZEIjoZY.mp4?raw=true"
         },
         {
+            "id": "iowUpb_THsc",
+            "name": "Maurice Ravel orch. Yan Pascal Tortelier  - Piano Trio in A minor (1914), arranged for orchestra-iowUpb_THsc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Maurice Ravel orch. Yan Pascal Tortelier  - Piano Trio in A minor (1914), arranged for orchestra-iowUpb_THsc.mp4",
+            "size": 38.743007,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Maurice Ravel orch. Yan Pascal Tortelier  - Piano Trio in A minor (1914), arranged for orchestra-iowUpb_THsc.mp4?raw=true"
+        },
+        {
             "id": "VKdqDrlB3CQ",
             "name": "Sergei Rachmaninov - Symphony No. 2, Op. 27 (1907) Live-VKdqDrlB3CQ.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Sergei Rachmaninov - Symphony No. 2, Op. 27 (1907) Live-VKdqDrlB3CQ.mp4",
@@ -58,11 +65,25 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Baby Please Don't Go-9idXAY_wquo.mp4?raw=true"
         },
         {
+            "id": "eEkQmPDOnhk",
+            "name": "Andr\u00e9 Messager  - Les Deux Pigeons, ballet in two acts (1886 rev. 1906)-eEkQmPDOnhk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Andr\u00e9 Messager  - Les Deux Pigeons, ballet in two acts (1886 rev. 1906)-eEkQmPDOnhk.mp4",
+            "size": 58.638673999999995,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Andr\u00e9 Messager  - Les Deux Pigeons, ballet in two acts (1886 rev. 1906)-eEkQmPDOnhk.mp4?raw=true"
+        },
+        {
             "id": "4fEAKka2s0U",
             "name": "Joan Manuel Serrat       El Carrusel del Furo-4fEAKka2s0U.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Joan Manuel Serrat       El Carrusel del Furo-4fEAKka2s0U.mp4",
             "size": 8.766981,
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Joan Manuel Serrat       El Carrusel del Furo-4fEAKka2s0U.mp4?raw=true"
+        },
+        {
+            "id": "JJWQWG_rTyo",
+            "name": "Lullaby of Broadway-JJWQWG_rTyo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Lullaby of Broadway-JJWQWG_rTyo.mp4",
+            "size": 6.318671,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Lullaby of Broadway-JJWQWG_rTyo.mp4?raw=true"
         },
         {
             "id": "4RrSZVrsmzc",
@@ -261,6 +282,13 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Bach - Violin Partita in E Major - Prelude, Gavotte and Gigue - Prelude-G5rdIVV_t2A.mp4?raw=true"
         },
         {
+            "id": "FPRMQ1nzipg",
+            "name": "Gershwin - Girl Crazy - Suite (Arr. Anderson)-FPRMQ1nzipg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Gershwin - Girl Crazy - Suite (Arr. Anderson)-FPRMQ1nzipg.mp4",
+            "size": 4.491509,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Gershwin - Girl Crazy - Suite (Arr. Anderson)-FPRMQ1nzipg.mp4?raw=true"
+        },
+        {
             "id": "XMd_qyV8R5g",
             "name": "Liszt, Wagner - Elsa's Dream And Lohengrin's Rebuke, S. 446, No. 2-XMd_qyV8R5g.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Liszt, Wagner - Elsa's Dream And Lohengrin's Rebuke, S. 446, No. 2-XMd_qyV8R5g.mp4",
@@ -373,5 +401,5 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Liszt - Auf dem Wasser zu singen, S.558 No. 2 (after Schubert, D.774)-LLfOCAlgWMs.mp4?raw=true"
         }
     ],
-    "total_size": 616.425581
+    "total_size": 724.617442
 }
