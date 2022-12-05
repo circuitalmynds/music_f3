@@ -1,5 +1,111 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "xOEQtFBsmG8",
+            "name": "Stomping Ground-xOEQtFBsmG8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Stomping Ground-xOEQtFBsmG8.mp4",
+            "size": 5.213229999999999,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Stomping Ground-xOEQtFBsmG8.mp4?raw=true"
+        },
+        {
+            "id": "4RrSZVrsmzc",
+            "name": "Liszt - Liebestr\u00e4ume, S. 541 - No. 3 in A-Flat Major 'Oh Lieb, so lang du lieben kannst'-4RrSZVrsmzc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Liszt - Liebestr\u00e4ume, S. 541 - No. 3 in A-Flat Major 'Oh Lieb, so lang du lieben kannst'-4RrSZVrsmzc.mp4",
+            "size": 3.1730039999999997,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Liszt - Liebestr\u00e4ume, S. 541 - No. 3 in A-Flat Major 'Oh Lieb, so lang du lieben kannst'-4RrSZVrsmzc.mp4?raw=true"
+        },
+        {
+            "id": "NGwUqZuPs5k",
+            "name": "A-Tisket, A-Tasket-NGwUqZuPs5k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/A-Tisket, A-Tasket-NGwUqZuPs5k.mp4",
+            "size": 2.003964,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/A-Tisket, A-Tasket-NGwUqZuPs5k.mp4?raw=true"
+        },
+        {
+            "id": "qHqsdFQlxxw",
+            "name": "Keyboard Sonata No. 38 in F Major, Hob. XVI, 23 - III. Finale - Presto-qHqsdFQlxxw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Keyboard Sonata No. 38 in F Major, Hob. XVI, 23 - III. Finale - Presto-qHqsdFQlxxw.mp4",
+            "size": 2.459809,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Keyboard Sonata No. 38 in F Major, Hob. XVI, 23 - III. Finale - Presto-qHqsdFQlxxw.mp4?raw=true"
+        },
+        {
+            "id": "vHPhUG1qI-Y",
+            "name": "Do the Boogaloo-vHPhUG1qI-Y.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Do the Boogaloo-vHPhUG1qI-Y.mp4",
+            "size": 4.815878,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Do the Boogaloo-vHPhUG1qI-Y.mp4?raw=true"
+        },
+        {
+            "id": "GNZcIM_y9Jo",
+            "name": "Liszt - A Faust Symphony, S.108 - 1. Faust (Live)-GNZcIM_y9Jo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Liszt - A Faust Symphony, S.108 - 1. Faust (Live)-GNZcIM_y9Jo.mp4",
+            "size": 16.265162999999998,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Liszt - A Faust Symphony, S.108 - 1. Faust (Live)-GNZcIM_y9Jo.mp4?raw=true"
+        },
+        {
+            "id": "F2S3VqyokVo",
+            "name": "Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Le Bonhomme de neige-F2S3VqyokVo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Le Bonhomme de neige-F2S3VqyokVo.mp4",
+            "size": 0.242722,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Offenbach - Le voyage dans la lune _ Ballet des Flocons de neige - Le Bonhomme de neige-F2S3VqyokVo.mp4?raw=true"
+        },
+        {
+            "id": "cC_ER4JuvDY",
+            "name": "Banderas Negras II-cC_ER4JuvDY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Banderas Negras II-cC_ER4JuvDY.mp4",
+            "size": 3.4278169999999997,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Banderas Negras II-cC_ER4JuvDY.mp4?raw=true"
+        },
+        {
+            "id": "PFPnPRwlM9c",
+            "name": "Love Locked out-PFPnPRwlM9c.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Love Locked out-PFPnPRwlM9c.mp4",
+            "size": 3.985575,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Love Locked out-PFPnPRwlM9c.mp4?raw=true"
+        },
+        {
+            "id": "j-T8vVXUW2k",
+            "name": "Charly Garc\u00eda - No Me Dejan Salir-j-T8vVXUW2k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Charly Garc\u00eda - No Me Dejan Salir-j-T8vVXUW2k.mp4",
+            "size": 7.552019,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Charly Garc\u00eda - No Me Dejan Salir-j-T8vVXUW2k.mp4?raw=true"
+        },
+        {
+            "id": "V9A5S2xVdLc",
+            "name": "Ev'ry Night at Seven (From 'Royal Wedding')-V9A5S2xVdLc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Ev'ry Night at Seven (From 'Royal Wedding')-V9A5S2xVdLc.mp4",
+            "size": 4.524368,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Ev'ry Night at Seven (From 'Royal Wedding')-V9A5S2xVdLc.mp4?raw=true"
+        },
+        {
+            "id": "A5soZOEgsks",
+            "name": "Oscar Alem\u00e1n - Cari\u00f1oso-A5soZOEgsks.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Oscar Alem\u00e1n - Cari\u00f1oso-A5soZOEgsks.mp4",
+            "size": 8.066229,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Oscar Alem\u00e1n - Cari\u00f1oso-A5soZOEgsks.mp4?raw=true"
+        },
+        {
+            "id": "bILodnEK2rg",
+            "name": "My Retaliation-bILodnEK2rg.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/My Retaliation-bILodnEK2rg.mp4",
+            "size": 4.5841069999999995,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/My Retaliation-bILodnEK2rg.mp4?raw=true"
+        },
+        {
+            "id": "EdoNh3mVxkU",
+            "name": "Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - I. Moderato-EdoNh3mVxkU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - I. Moderato-EdoNh3mVxkU.mp4",
+            "size": 3.879908,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - I. Moderato-EdoNh3mVxkU.mp4?raw=true"
+        },
+        {
+            "id": "kGgEroiMBCY",
+            "name": "Ravel - Alborada del gracioso \u2219 hr-Sinfonieorchester \u2219 Pablo Heras-Casado-kGgEroiMBCY.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Ravel - Alborada del gracioso \u2219 hr-Sinfonieorchester \u2219 Pablo Heras-Casado-kGgEroiMBCY.mp4",
+            "size": 42.012777,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Ravel - Alborada del gracioso \u2219 hr-Sinfonieorchester \u2219 Pablo Heras-Casado-kGgEroiMBCY.mp4?raw=true"
+        }
+    ],
+    "total_size": 112.20656999999999
 }
