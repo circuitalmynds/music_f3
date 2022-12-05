@@ -100,6 +100,13 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Bolero _ Maurice Ravel _ Vasily Petrenko _ Oslo Philharmonic-V3WH4gF84fU.mp4?raw=true"
         },
         {
+            "id": "euTq23FnfHA",
+            "name": "Barenboim and Pl\u00e1cido Domingo - Manuel de Falla - Nights in the Gardens of Spain-euTq23FnfHA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Barenboim and Pl\u00e1cido Domingo - Manuel de Falla - Nights in the Gardens of Spain-euTq23FnfHA.mp4",
+            "size": 77.099539,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Barenboim and Pl\u00e1cido Domingo - Manuel de Falla - Nights in the Gardens of Spain-euTq23FnfHA.mp4?raw=true"
+        },
+        {
             "id": "S6QQ0_6i2jo",
             "name": "Just for Marty-S6QQ0_6i2jo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Just for Marty-S6QQ0_6i2jo.mp4",
@@ -189,6 +196,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/En El Suelo-tK7H2N1UNSU.mp4",
             "size": 1.6996019999999998,
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/En El Suelo-tK7H2N1UNSU.mp4?raw=true"
+        },
+        {
+            "id": "UAjfRoMU63s",
+            "name": "Woodstock-UAjfRoMU63s.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Woodstock-UAjfRoMU63s.mp4",
+            "size": 6.875744999999999,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Woodstock-UAjfRoMU63s.mp4?raw=true"
         },
         {
             "id": "1gQAHUlln7k",
@@ -366,6 +380,13 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Keyboard Sonata No. 15 in E Major, Hob. XVI, 13 - I. Moderato-EdoNh3mVxkU.mp4?raw=true"
         },
         {
+            "id": "XeMnMqyScQM",
+            "name": "Grimm, Julius Otto - Zwei M\u00e4rsche (1872)-XeMnMqyScQM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Grimm, Julius Otto - Zwei M\u00e4rsche (1872)-XeMnMqyScQM.mp4",
+            "size": 82.513632,
+            "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Grimm, Julius Otto - Zwei M\u00e4rsche (1872)-XeMnMqyScQM.mp4?raw=true"
+        },
+        {
             "id": "RP0_8J7uxhs",
             "name": "Laura Branigan - Self Control (Official Music Video)-RP0_8J7uxhs.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f3/videos/Laura Branigan - Self Control (Official Music Video)-RP0_8J7uxhs.mp4",
@@ -401,5 +422,5 @@
             "url": "https://github.com/circuitalmynds/music_f3/blob/main/videos/Liszt - Auf dem Wasser zu singen, S.558 No. 2 (after Schubert, D.774)-LLfOCAlgWMs.mp4?raw=true"
         }
     ],
-    "total_size": 724.617442
+    "total_size": 891.1063579999999
 }
